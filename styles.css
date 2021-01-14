@@ -29,6 +29,10 @@
   font-size: 11px;
 }
 
+.minWidth{
+  min-width: 70px;
+}
+
 @media (max-width: 575px) {
   .logo {
     width: 30%;

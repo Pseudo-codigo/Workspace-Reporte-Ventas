@@ -11,7 +11,7 @@
 }
 
 .invoiceTitle {
-  font-size: 15px;
+  font-size: 14px;
 }
 
 .noBold {
@@ -23,7 +23,7 @@
 }
 
 .invoiceHeader {
-  font-size: 12px;
+  font-size: 11px;
 }
 
 @media (max-width: 575px) {

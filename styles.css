@@ -10,6 +10,11 @@
   border-bottom: 1px solid black;
 }
 
+.invoiceHeader{
+  font-size: 12px;
+  font-weight: normal;
+}
+
 @media (max-width: 575px) {
   .logo {
     width: 30%;

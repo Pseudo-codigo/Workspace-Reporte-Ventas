@@ -24,12 +24,13 @@
 
 .invoiceHeader {
   font-size: 12px;
+  /* vertical-align: middle !important; */
 }
 .invoiceProduct {
   font-size: 11px;
 }
 
-.minWidth{
+.minWidth {
   min-width: 70px;
 }
 

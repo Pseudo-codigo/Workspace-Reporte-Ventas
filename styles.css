@@ -10,9 +10,20 @@
   border-bottom: 1px solid black;
 }
 
-.invoiceHeader{
-  font-size: 12px;
+.invoiceTitle {
+  font-size: 15px;
+}
+
+.noBold {
   font-weight: normal;
+}
+
+.borderBottom {
+  border-bottom: 3px solid black;
+}
+
+.invoiceHeader {
+  font-size: 12px;
 }
 
 @media (max-width: 575px) {

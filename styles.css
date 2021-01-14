@@ -23,6 +23,9 @@
 }
 
 .invoiceHeader {
+  font-size: 12px;
+}
+.invoiceProduct {
   font-size: 11px;
 }
 
